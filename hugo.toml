@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Jupiter SC'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
