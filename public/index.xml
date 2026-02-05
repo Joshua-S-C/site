@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Blowfish</description>
+    <title>Jupiter Sinclair Chong | Site under construction...</title>
+    <link>https://joshua-s-c.github.io/site/</link>
+    <description>Recent content on Jupiter Sinclair Chong | Site under construction...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 </copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Jupiter Sinclair Chong</copyright>
+    <lastBuildDate>Wed, 04 Feb 2026 23:07:12 -0500</lastBuildDate><atom:link href="https://joshua-s-c.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Belgian Feather Bowling : On The Go!</title>
+      <link>https://joshua-s-c.github.io/site/games/bfb/</link>
+      <pubDate>Wed, 04 Feb 2026 23:07:12 -0500</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/games/bfb/</guid>
+      <description>A 3D, educational recreation of the sport Belgian Feather Bowling for Web and Mobile</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/games/bfb/featured.png" />
+    </item>
+    
+    <item>
+      <title>Croaky Climber</title>
+      <link>https://joshua-s-c.github.io/site/games/croaky-climber/</link>
+      <pubDate>Wed, 04 Feb 2026 23:07:12 -0500</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/games/croaky-climber/</guid>
+      <description>A 2D platformer where the hero can&amp;rsquo;t jump and moves by grappling with his tongue</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/games/croaky-climber/featured.png" />
+    </item>
+    
+    <item>
+      <title>Socratic Smackdown</title>
+      <link>https://joshua-s-c.github.io/site/games/socratic-smackdown/</link>
+      <pubDate>Wed, 04 Feb 2026 23:05:17 -0500</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/games/socratic-smackdown/</guid>
+      <description>&lt;p&gt;socraticly&lt;/p&gt;&#xA;&lt;p&gt;This is an example of **strong text** in a sentence. This is another sentence.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/games/socratic-smackdown/featured.png" />
+    </item>
     
   </channel>
 </rss>

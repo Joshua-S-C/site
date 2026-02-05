@@ -2,17 +2,29 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Jupiter Sinclair Chong | Site under construction..."
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  logo = "logos/Croaky Climber Logo - Square.png"
+  secondaryLogo = "logos/Croaky Climber Logo - Square.png"
+  description = "Description"
   # copyright = "Copy, _right?_ :thinking_face:"
+  # thats funny ^
+
+[params.author]
+name = "Jupiter Sinclair Chong"
+image = "logos/Croaky Climber Logo - Square.png"
+headline = "Games, Graphics, Tech Art, & Tools"
+bio = "Game Programmer specializing in Graphics Programming, Tech Art, & Tools"
+links = [
+  { github = "https://github.com/Joshua-S-C" },    
+  { itch-io = "https://vxheme.itch.io" },
+  { linkedin = "https://linkedin.com/in/joshua-sinclair-chong" },
+]
 
 # [params.author]
 #   name = "Your name here"
