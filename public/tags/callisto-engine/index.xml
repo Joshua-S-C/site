@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Callisto Engine on Jupiter Sinclair Chong | Under Construction...</title>
+    <link>https://joshua-s-c.github.io/site/tags/callisto-engine/</link>
+    <description>Recent content in Callisto Engine on Jupiter Sinclair Chong | Under Construction...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Jupiter Sinclair Chong</copyright>
+    <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://joshua-s-c.github.io/site/tags/callisto-engine/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gerstner Waves</title>
+      <link>https://joshua-s-c.github.io/site/graphics/gerstner-waves/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/graphics/gerstner-waves/</guid>
+      <description>A water shader that simulates physically accurate waves using real math done by real smart people</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/graphics/gerstner-waves/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Callisto Engine</title>
+      <link>https://joshua-s-c.github.io/site/graphics/callisto-engine/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/graphics/callisto-engine/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/graphics/callisto-engine/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

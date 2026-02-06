@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jupiter Sinclair Chong | Site under construction...</title>
+    <title>Jupiter Sinclair Chong | Under Construction...</title>
     <link>https://joshua-s-c.github.io/site/</link>
-    <description>Recent content on Jupiter Sinclair Chong | Site under construction...</description>
+    <description>Recent content on Jupiter Sinclair Chong | Under Construction...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Jupiter Sinclair Chong</copyright>
@@ -40,16 +40,6 @@
     </item>
     
     <item>
-      <title>Volumetric Clouds</title>
-      <link>https://joshua-s-c.github.io/site/graphics/volumetric-clouds/</link>
-      <pubDate>Tue, 03 Feb 2026 12:04:54 -0500</pubDate>
-      
-      <guid>https://joshua-s-c.github.io/site/graphics/volumetric-clouds/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/graphics/volumetric-clouds/feature.png" />
-    </item>
-    
-    <item>
       <title>Maya Voxelizer</title>
       <link>https://joshua-s-c.github.io/site/tech-art/maya-voxelizer/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
@@ -62,7 +52,7 @@
     <item>
       <title>Callisto Engine</title>
       <link>https://joshua-s-c.github.io/site/graphics/callisto-engine/</link>
-      <pubDate>Mon, 02 Feb 2026 12:06:23 -0500</pubDate>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
       
       <guid>https://joshua-s-c.github.io/site/graphics/callisto-engine/</guid>
       <description></description>
@@ -72,7 +62,7 @@
     <item>
       <title>Belgian Feather Bowling : On The Go!</title>
       <link>https://joshua-s-c.github.io/site/games/bfb/</link>
-      <pubDate>Sun, 01 Feb 2026 23:07:12 -0500</pubDate>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       
       <guid>https://joshua-s-c.github.io/site/games/bfb/</guid>
       <description>A 3D, educational recreation of the sport Belgian Feather Bowling for Web and Mobile</description>
@@ -82,11 +72,21 @@
     <item>
       <title>Croaky Climber</title>
       <link>https://joshua-s-c.github.io/site/games/croaky-climber/</link>
-      <pubDate>Sun, 01 Feb 2026 23:06:12 -0500</pubDate>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
       
       <guid>https://joshua-s-c.github.io/site/games/croaky-climber/</guid>
       <description>A 2D platformer where the hero can&amp;rsquo;t jump and moves by grappling with his tongue</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/games/croaky-climber/feature.png" />
+    </item>
+    
+    <item>
+      <title>Volumetric Clouds</title>
+      <link>https://joshua-s-c.github.io/site/graphics/volumetric-clouds/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/graphics/volumetric-clouds/</guid>
+      <description>Volumetric clouds implemented as a post processing effect using ray marching.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/graphics/volumetric-clouds/feature.png" />
     </item>
     
     <item>
@@ -97,6 +97,36 @@
       <guid>https://joshua-s-c.github.io/site/tech-art/rigging--tools/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/tech-art/rigging--tools/feature.png" />
+    </item>
+    
+    <item>
+      <title>Lost Echoes</title>
+      <link>https://joshua-s-c.github.io/site/games/lost-echoes/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/games/lost-echoes/</guid>
+      <description>Summary here!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/games/lost-echoes/feature.png" />
+    </item>
+    
+    <item>
+      <title>Vulkan Renderer</title>
+      <link>https://joshua-s-c.github.io/site/graphics/vulkan-renderer/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/graphics/vulkan-renderer/</guid>
+      <description>I&amp;rsquo;m learning Vulkan!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/graphics/vulkan-renderer/featured.png" />
+    </item>
+    
+    <item>
+      <title>Bleak Friday</title>
+      <link>https://joshua-s-c.github.io/site/games/bleak-friday/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/games/bleak-friday/</guid>
+      <description>Summary here!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/games/bleak-friday/feature.png" />
     </item>
     
   </channel>

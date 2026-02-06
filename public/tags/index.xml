@@ -1,13 +1,193 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jupiter Sinclair Chong | Site under construction...</title>
+    <title>Tags on Jupiter Sinclair Chong | Under Construction...</title>
     <link>https://joshua-s-c.github.io/site/tags/</link>
-    <description>Recent content in Tags on Jupiter Sinclair Chong | Site under construction...</description>
+    <description>Recent content in Tags on Jupiter Sinclair Chong | Under Construction...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Jupiter Sinclair Chong</copyright>
-    <atom:link href="https://joshua-s-c.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://joshua-s-c.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>C#</title>
+      <link>https://joshua-s-c.github.io/site/tags/c%23/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/c%23/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HLSL</title>
+      <link>https://joshua-s-c.github.io/site/tags/hlsl/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/hlsl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://joshua-s-c.github.io/site/tags/unity/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/unity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Callisto Engine</title>
+      <link>https://joshua-s-c.github.io/site/tags/callisto-engine/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/callisto-engine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Game Maker Studio 2</title>
+      <link>https://joshua-s-c.github.io/site/tags/game-maker-studio-2/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/game-maker-studio-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GML</title>
+      <link>https://joshua-s-c.github.io/site/tags/gml/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/gml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OpenGL</title>
+      <link>https://joshua-s-c.github.io/site/tags/opengl/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/opengl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Houdini</title>
+      <link>https://joshua-s-c.github.io/site/tags/houdini/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/houdini/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Procedural Modeling</title>
+      <link>https://joshua-s-c.github.io/site/tags/procedural-modeling/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/procedural-modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Maya</title>
+      <link>https://joshua-s-c.github.io/site/tags/maya/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/maya/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://joshua-s-c.github.io/site/tags/python/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity URP</title>
+      <link>https://joshua-s-c.github.io/site/tags/unity-urp/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/unity-urp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>3D Animation</title>
+      <link>https://joshua-s-c.github.io/site/tags/3d-animation/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/3d-animation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://joshua-s-c.github.io/site/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Game Engine Development</title>
+      <link>https://joshua-s-c.github.io/site/tags/game-engine-development/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/game-engine-development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rigging</title>
+      <link>https://joshua-s-c.github.io/site/tags/rigging/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/rigging/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TODO</title>
+      <link>https://joshua-s-c.github.io/site/tags/todo/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/todo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vulkan</title>
+      <link>https://joshua-s-c.github.io/site/tags/vulkan/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tags/vulkan/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

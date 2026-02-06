@@ -1,8 +1,9 @@
-+++
-date = '2026-02-03T12:04:54-05:00'
-
-showDate = false
-draft = false
-title = 'Volumetric Clouds'
-+++
-
+---
+title: 'Volumetric Clouds'
+date: 2026-02-03
+draft: false
+summary: "Volumetric clouds implemented as a post processing effect using ray marching."
+catergories: ['Graphics']
+tags: ['Unity', 'Unity URP', 'HLSL']
+weight: 3
+---

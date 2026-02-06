@@ -1,8 +1,13 @@
 ---
 title: "Socratic Smackdown"
-date: 2026-02-06
-draft: false
 summary:  'A platform fighter where animalized versions of philosophers put down their words and raise up their fists!'
+weight: 1
+
+date: 2026-02-06
+
+draft: false
+catergories: ['Games']
+tags: ['Unity', 'C#', 'HLSL']
 ---
 
 

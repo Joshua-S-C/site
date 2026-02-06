@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Houdini on Jupiter Sinclair Chong | Under Construction...</title>
+    <link>https://joshua-s-c.github.io/site/tags/houdini/</link>
+    <description>Recent content in Houdini on Jupiter Sinclair Chong | Under Construction...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Jupiter Sinclair Chong</copyright>
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://joshua-s-c.github.io/site/tags/houdini/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Procedural Rocks &amp; Pillars</title>
+      <link>https://joshua-s-c.github.io/site/tech-art/procedural-rocks--pillars/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshua-s-c.github.io/site/tech-art/procedural-rocks--pillars/</guid>
+      <description>Two procedural assets built with Houdini, used for rapid creation, iteration, and variety</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/tech-art/procedural-rocks--pillars/feature-1.jpg" />
+    </item>
+    
+  </channel>
+</rss>

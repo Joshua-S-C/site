@@ -27,7 +27,7 @@ disableImageZoom = false
 mainSections = ["games", "graphics", "tech-art"]
 
 [header]
-layout = "basic"
+layout = "fixed"
 
 [footer]
 showMenu = true
@@ -56,9 +56,10 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
 showHero = true
+heroStyle = "background"
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
-showBreadcrumbs = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = false
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -77,21 +78,21 @@ showZenMode = false
 [list]
 showHero = true
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
 showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
 showCards = true
-orderByWeight = false
-groupByYear = true
+orderByWeight = true
+groupByYear = false
 cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+excludedKinds = [ "term" ]
 
 [taxonomy]
 showTermCount = true

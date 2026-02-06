@@ -1,7 +1,12 @@
-+++
-date = '{{ .Date }}'
-showDate = false
-draft = false
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-+++
+---
+title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+summary: "Summary here!"
+weight: 100
 
+date: '{{ .Date }}'
+
+draft: false
+
+tags: ['TODO']
+catergories: ['TODO: Catergory']
+---

@@ -26,6 +26,18 @@ pageRef = "Games/croaky-climber"
 parent = "Games"
 weight = 30
 
+[[main]]
+name = "Lost Echoes"
+pageRef = "Games/lost-echoes"
+parent = "Games"
+weight = 40
+
+[[main]]
+name = "Bleak Friday"
+pageRef = "Games/bleak-friday"
+parent = "Games"
+weight = 50
+
 # Graphics
 
 [[main]]
@@ -51,7 +63,14 @@ pageRef = "Graphics/volumetric-clouds"
 parent = "Graphics"
 weight = 30
 
+[[main]]
+name = "Vulkan Renderer"
+pageRef = "Graphics/vulkan-renderer"
+parent = "Graphics"
+weight = 40
+
 # Tech Art
+
 [[main]]
 name = "Tech Art"
 pageRef = "Tech Art"
