@@ -1,6 +1,8 @@
 [[main]]
 none = "none"
 
+# Games
+
 [[main]]
 name = "Games"
 pageRef = "Games"
@@ -23,6 +25,71 @@ name = "Croaky Climber"
 pageRef = "Games/croaky-climber"
 parent = "Games"
 weight = 30
+
+# Graphics
+
+[[main]]
+name = "Graphics"
+pageRef = "Graphics"
+weight = 20
+
+[[main]]
+name = "Callisto Engine"
+pageRef = "Graphics/callisto-engine"
+parent = "Graphics"
+weight = 10
+
+[[main]]
+name = "Gerstner Waves"
+pageRef = "Graphics/gerstner-waves"
+parent = "Graphics"
+weight = 20
+
+[[main]]
+name = "Volumetric Clouds"
+pageRef = "Graphics/volumetric-clouds"
+parent = "Graphics"
+weight = 30
+
+# Tech Art
+[[main]]
+name = "Tech Art"
+pageRef = "Tech Art"
+weight = 30
+
+[[main]]
+name = "Procedural Rocks & Columns"
+pageRef = "Tech Art/procedural-rocks-&-pillars"
+parent = "Tech Art"
+weight = 10
+
+[[main]]
+name = "Maya Voxelizer"
+pageRef = "Tech Art/maya-voxelizer"
+parent = "Tech Art"
+weight = 20
+
+[[main]]
+name = "Rigging & Tools"
+pageRef = "Tech Art/rigging-&-tools"
+parent = "Tech Art"
+weight = 30
+
+# All Projects
+
+[[main]]
+name = "All Projects"
+pageRef = "All Projects"
+weight = 40
+
+# About Me
+
+[[main]]
+name = "About Me"
+pageRef = "About Me"
+weight = 50
+
+#
 
 
 [[footer]]
